@@ -16,3 +16,5 @@ git pull
 Авторство коммита:
 git config --global user.email "Ваш емаил"
 git config --global user.name "Ваше имя"
+
+Я склонировал проект.
